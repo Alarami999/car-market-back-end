@@ -1,0 +1,6 @@
+@car_marketplace_api_3tier.Api_HostAddress = http://localhost:5149
+
+GET {{car_marketplace_api_3tier.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
