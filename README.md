@@ -6,13 +6,13 @@ Overview:
 
 Architecture:
 
-       Presentation Layer (Controllers)
-       ↓
-        Business Layer (Services)
-       ↓
-        Data Access Layer (Repositories)
-       ↓
-        Database Layer (Entity Framework Core)
+ Presentation Layer (Controllers)
+ ↓
+  Business Layer (Services)
+ ↓
+  Data Access Layer (Repositories)
+ ↓
+  Database Layer (Entity Framework Core)
  
 Prerequisites:
 
