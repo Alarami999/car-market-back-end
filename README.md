@@ -2,7 +2,7 @@ Car Marketplace API - Backend
 
 Overview:
 
-       A comprehensive API for a car selling platform, built using a 3-Tier Architecture with ASP.NET Core and modern technologies for user management, shopping cart, payment processing, and authentication.
+   A comprehensive API for a car selling platform, built using a 3-Tier Architecture with ASP.NET Core and modern technologies for user management, shopping cart, payment processing, and authentication.
 
 Architecture:
 
