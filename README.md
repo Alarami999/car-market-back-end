@@ -25,6 +25,7 @@ IDE: Visual Studio 2022+ or VS Code with C# extension
 
 Project Structure:
 car-marketplace-api-3tier/
+
 ├── Models/           # Data Entities (DTOs & Entities) 
 
 ├── Data/            # Database Context (DbContext)
