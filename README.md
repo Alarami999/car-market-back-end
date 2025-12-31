@@ -25,15 +25,24 @@ IDE: Visual Studio 2022+ or VS Code with C# extension
 
 Project Structure:
 car-marketplace-api-3tier/
-├── Models/           # Data Entities (DTOs & Entities)
+├── Models/           # Data Entities (DTOs & Entities) 
+
 ├── Data/            # Database Context (DbContext)
+
 ├── Repositories/    # Data Access Layer
+
 ├── Services/        # Business Logic Layer
+
 ├── Controllers/     # API Endpoints
+
 ├── Settings/        # Configuration Files
+
 ├── DTOs/           # Data Transfer Objects
+
 ├── appsettings.json # Main Configuration File
+
 └── Program.cs       # Entry Point & Application Initialization
+
 
 Key Features:
     Authentication & Authorization:
